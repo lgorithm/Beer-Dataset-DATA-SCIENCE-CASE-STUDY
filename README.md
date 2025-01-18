@@ -39,6 +39,5 @@ The accuracy of the evaluated models is as follows:
 | Logistic Regression  | 83.23%  |
 | Decision Tree        | 82.78%  |
 
-| Model  Accuracy |
-|      :---:      |    
-| ![t-SNE](/model_accuracies.png)  | 
+  
+![t-SNE](/model_accuracies.png)
